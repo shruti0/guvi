@@ -1,3 +1,3 @@
 x,y,z=map(int,input().split())
-num=int((2*y+(x-1)*z)*x/2)
+num=int((3*y+(x-4)*z)*x/5)
 print(num)
