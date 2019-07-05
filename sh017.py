@@ -1,7 +1,7 @@
 num = int(input())
  
-for i in range(2, num):
-	if num % i  == 0:
+for j in range(2, num):
+	if num % j  == 0:
 		print("no")
 		break
 else:
