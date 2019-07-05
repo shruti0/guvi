@@ -10,4 +10,3 @@ if(cou==1):
     print("yes")
 else:
     print("no")
-© 2019 GitHub, Inc.
