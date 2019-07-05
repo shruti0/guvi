@@ -1,2 +1,2 @@
-urstr=input()
-print(urstr +'.')
+ptusr=input()
+print(ptusr +'.')
